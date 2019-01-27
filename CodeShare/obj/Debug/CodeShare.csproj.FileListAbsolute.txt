@@ -1,0 +1,22 @@
+C:\Users\TIS\source\repos\CodeShare\CodeShare\bin\Debug\CodeShare.exe.config
+C:\Users\TIS\source\repos\CodeShare\CodeShare\bin\Debug\CodeShare.exe
+C:\Users\TIS\source\repos\CodeShare\CodeShare\bin\Debug\CodeShare.pdb
+C:\Users\TIS\source\repos\CodeShare\CodeShare\obj\Debug\CodeShare.csprojAssemblyReference.cache
+C:\Users\TIS\source\repos\CodeShare\CodeShare\obj\Debug\CodeShare.csproj.CoreCompileInputs.cache
+C:\Users\TIS\source\repos\CodeShare\CodeShare\obj\Debug\CodeShare.exe
+C:\Users\TIS\source\repos\CodeShare\CodeShare\obj\Debug\CodeShare.pdb
+C:\Users\TIS\source\repos\CodeShare\CodeShare\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TIS\source\repos\CodeShare\CodeShare\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\TIS\source\repos\CodeShare\CodeShare\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TIS\source\repos\CodeShare\CodeShare\obj\Debug\CodeShare.csproj.CopyComplete
+C:\Users\TIS\source\repos\Music Player\CodeShare\bin\Debug\CodeShare.exe.config
+C:\Users\TIS\source\repos\Music Player\CodeShare\bin\Debug\CodeShare.exe
+C:\Users\TIS\source\repos\Music Player\CodeShare\bin\Debug\CodeShare.pdb
+C:\Users\TIS\source\repos\Music Player\CodeShare\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TIS\source\repos\Music Player\CodeShare\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\TIS\source\repos\Music Player\CodeShare\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TIS\source\repos\Music Player\CodeShare\obj\Debug\CodeShare.csprojAssemblyReference.cache
+C:\Users\TIS\source\repos\Music Player\CodeShare\obj\Debug\CodeShare.csproj.CoreCompileInputs.cache
+C:\Users\TIS\source\repos\Music Player\CodeShare\obj\Debug\CodeShare.csproj.CopyComplete
+C:\Users\TIS\source\repos\Music Player\CodeShare\obj\Debug\CodeShare.exe
+C:\Users\TIS\source\repos\Music Player\CodeShare\obj\Debug\CodeShare.pdb
