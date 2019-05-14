@@ -3,6 +3,8 @@ Plays music on a remote computer, controlled commands are sent via pastebin
 
 pastebin command format:
 
+
+```Csharp
 {
     "Command": "play",
     "AudioSource": "",
@@ -11,3 +13,4 @@ pastebin command format:
     "Delay": 0,
     "Id": "1"
 }
+```
